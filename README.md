@@ -1,10 +1,10 @@
-<h1 align="center">👋 My  is Omar Ashraf , Welcome To My Github Profile.</h1>
+<h1 align="center">👋 My  is Mohamed Fares , Welcome To My Github Profile.</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20stack%20developer;Wait%20for%20more%20projects&font=Fira%20Code&center=true&width=440&height=45&color=2196f3&vCenter=true&size=24"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst%20;Wait%20for%20more%20projects&font=Fira%20Code&center=true&width=440&height=45&color=2196f3&vCenter=true&size=24"></a>
 </p> 
 <br/>
 <h3>🚀 About me</h3> 
-<picture> <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width = 345px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"></picture>
 
 <h4>
 
@@ -35,15 +35,13 @@ Let's connect and explore the world of data together!
 
 ### Languages and Tools 🛠 : 
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+<img align="left" alt="Python" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="SQL" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Visual Studio Code" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
+<img align="left" alt="excel" class="center" width="30" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/excel.png" />
+<img align="left" alt="tableau" width="55" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/tableau.png" />
 
-- ### I’m currently learning 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
@@ -89,10 +87,10 @@ Let's connect and explore the world of data together!
 
 
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](-------linkedin profile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:----------)](mailto:-------your gmail)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01030116272)
-[![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](-------facebook)
+)](https://www.linkedin.com/in/mohamedfares46)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mohamedfares2046@gmail.com)](mailto:mohamedfares2046@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01140823747)
+[![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/neddalfares?mibextid=9R9pXO)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
@@ -106,7 +104,7 @@ Let's connect and explore the world of data together!
 
 
 
-### Hi there 👋
+### Hi Friendes 👋
 
 
 **Mohamed2046/Mohamed2046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
