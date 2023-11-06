@@ -8,7 +8,7 @@
 
 <h4>
 
-My name is Mohamed, and I have experience as a data analyst. I am currently in my 4th year at the Faculty of Commerce, specializing in the English department with a focus on business. I have a strong background in several key areas, including Python, SQL, Excel, and Power BI.
+My name is Mohamed, and I have experience as a data analyst. I am currently in my 4th year at the Faculty of Commerce, specializing in the English department with a focus on business. I have a strong background in several key areas, including Python, SQL, Excel, Tableau , and Power BI.
 
 ## Skills
 
@@ -18,7 +18,9 @@ My name is Mohamed, and I have experience as a data analyst. I am currently in m
 
 - **Excel:** I use Excel for data preprocessing, analysis, and reporting.
 
-- **Power BI:** I have expertise in creating interactive data visualizations and dashboards using Power BI.
+- **Power BI:** I possess expertise in crafting interactive data visualizations and dynamic dashboards utilizing Power BI.
+
+- **Tableau:** I have a proficiency in developing interactive data visualizations and dynamic dashboards using Tableau.
 
 ## GitHub Repository
 
