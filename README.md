@@ -8,7 +8,7 @@
 
 <h4>
 
-My name is Mohamed, and I have experience as a data analyst. I am currently in my 4th year at the Faculty of Commerce, specializing in the English department with a focus on business. I have a strong background in several key areas, including Python, SQL, Excel, Tableau , and Power BI.
+My name is Mohamed, and I have experience as a data analyst. I have a strong background in several key areas, including Python, SQL, Excel, Tableau , and Power BI.
 
 ## Skills
 
@@ -91,7 +91,7 @@ Let's connect and explore the world of data together!
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/mohamedfares46)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mohamedfares2046@gmail.com)](mailto:mohamedfares2046@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01140823747)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+201140823747)
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/neddalfares?mibextid=9R9pXO)
 
 <br>
